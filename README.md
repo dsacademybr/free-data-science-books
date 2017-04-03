@@ -120,5 +120,6 @@ Each entry provides the expected audience for the certain book (beginner, interm
 * [Social Network Analysis](https://class.coursera.org/sna-003/class) - Lada Adamic (Coursera) - `Intermediate`
 
 
+## License
 
-
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
